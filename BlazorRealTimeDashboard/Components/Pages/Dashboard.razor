@@ -1,0 +1,20 @@
+﻿@page "/dashboard"
+
+<h3>Real-Time Metrics</h3>
+
+<p>CPU Usage: @cpuUsage%</p>
+
+@code {
+    private int cpuUsage;
+
+    protected override async Task OnInitializedAsync()
+    {
+        
+        while (true)
+        {
+            cpuUsage = new Random().Next(0, 100); 
+            StateHasChanged(); 
+            await Task.Delay(1000);
+        }
+    }
+}
