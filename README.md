@@ -1,7 +1,9 @@
 # DotNet 9: A Comprehensive Guide for Enterprise Developers (DotNet9_EnterpriseGuide)
  Discover the latest innovations in .NET 9 and C# 13
 
-  In addition to practical code examples and use cases that demonstrate the latest features of .NET 9 and C# 13 for building enterprise-grade applications, this repository is a companion to the article "A Comprehensive Guide for Enterprise Developers on .NET 9" published on C# Corner.
+ In addition to practical code examples and use cases that demonstrate the latest features of .NET 9 and C# 13 for building enterprise-grade applications, this repository is a companion to the article "A Comprehensive Guide for Enterprise Developers on .NET 9" published on C# Corner.
+
+ **[Article published on C# Corner click here to read this article](https://www.c-sharpcorner.com/article/a-comprehensive-guide-for-enterprise-developers-on-net-9/)**
 
 # Table of Contents
 
@@ -123,11 +125,7 @@ dotnet test
 - **OAuth2 and JWT**: Provide robust security for applications.  
 
 
- **[Article published on C# Corner click here to read this article](https://www.c-sharpcorner.com/article/a-comprehensive-guide-for-enterprise-developers-on-net-9/)**
-
-
-
-## About The Author Ziggy Rafiq
+ ## About The Author Ziggy Rafiq
 
 Ziggy Rafiq works as a Technical Lead Developer and is a prominent public figure in the tech industry and developer community. With over 20 years of experience as a Full-Stack Designer, Developer, Tester, DevSecOps, Technical Architect,
 Software Project Manager, and expert in Agile Management Best Practices and Standards, Ziggy is widely respected for his knowledge and skills. He is also an author, regularly contributing articles
